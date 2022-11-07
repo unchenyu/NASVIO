@@ -51,7 +51,7 @@ class Parameters():
         self.pin_mem = True
 
         # Select searched model
-        self.target = 'flops'
+        self.target = 'latency'
         if self.target == 'flops':
             self.load_ckpt = './flops_target.ckpt'
         else:
