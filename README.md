@@ -1,6 +1,6 @@
 # NASVIO
 
-THis repository contains the evaluation code for 'Search for efficient deep visual-inertial odometry through neural architecture search' and the searched models
+This repository contains the evaluation code for *Search for efficient deep visual-inertial odometry through neural architecture search* and the searched models
 
 ## Data Preparation
 
