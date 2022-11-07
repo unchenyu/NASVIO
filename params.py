@@ -6,7 +6,7 @@ class Parameters():
         self.devices = [0]
         self.n_processors = 4
         # Path
-        self.data_dir = '/tmpssd/unchenyu/kitti'
+        self.data_dir = './data'
         self.image_dir = self.data_dir + '/sequences/'
         self.pose_dir = self.data_dir + '/poses/'
         self.imu_dir = self.data_dir + '/imus/'
